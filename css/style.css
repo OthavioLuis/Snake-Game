@@ -74,9 +74,14 @@ canvas {
     cursor: pointer;
 }
 
+.teclas {
+    position: absolute;
+    margin-right: -900px;
+}
+
 .teclas img {
     margin-top: 20px;
-    width: 150px;
+    width: 200px;
 }
 
 .logo img {
